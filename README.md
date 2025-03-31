@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Geoffrey Mabeya!  
 
-<!--
-**MabeyaG/MabeyaG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+🔹 Web Scraper | Python Developer | Data Extraction Specialist  
+🔹 Passionate about automation, data mining, and web crawling  
+🔹 Freelancer on [Upwork](YOUR_UPWORK_LINK)  
 
-Here are some ideas to get you started:
+## 🔧 Skills  
+✔ Python (Selenium, BeautifulSoup, Scrapy, Playwright)  
+✔ Web Scraping & Automation  
+✔ API Data Extraction  
+✔ Data Cleaning & Organization  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeoffreyMabeya&show_icons=true&theme=dark)  
+
+## 📫 Contact Me  
+📩 Email: mabeyageoffrey9@gmail.com  
+💼Upwork: https://www.upwork.com/freelancers/~01ba0daaef8cd6346a 
