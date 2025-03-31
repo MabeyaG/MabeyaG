@@ -9,10 +9,7 @@
 ✔ Python (Selenium, BeautifulSoup, Scrapy, Playwright)  
 ✔ Web Scraping & Automation  
 ✔ API Data Extraction  
-✔ Data Cleaning & Organization  
-
-## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeoffreyMabeya&show_icons=true&theme=dark)  
+✔ Data Cleaning & Organization 
 
 ## 📫 Contact Me  
 📩 Email: mabeyageoffrey9@gmail.com  
