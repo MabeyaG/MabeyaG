@@ -1,4 +1,4 @@
-#  Hi, I'm Geoffrey Mabeya!  
+#  Hi, I'm Geoffrey Mabeya
 
 ##  About Me  
 Web Scraper | Python Developer | Data Extraction Specialist  
