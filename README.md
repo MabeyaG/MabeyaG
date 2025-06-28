@@ -7,7 +7,7 @@ Freelancer on Upwork and Fiverr.
 LinkedIn profile [LinkedIn](https://www.linkedin.com/in/geoffrey-mabeya-33b28335a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
-## 🔧 Skills  
+##  Skills  
  Python (Selenium, BeautifulSoup, Scrapy, Playwright)  
  Web Scraping & Automation  
  API Data Extraction  
